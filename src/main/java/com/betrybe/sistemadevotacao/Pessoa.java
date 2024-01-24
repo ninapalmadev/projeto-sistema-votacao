@@ -1,8 +1,9 @@
 package com.betrybe.sistemadevotacao;
 
 /**
- * the Type Pessoa.
-*/
+ * the type Pessoa.
+ */
+
 public abstract class Pessoa {
 
   protected String nome;
